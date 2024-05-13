@@ -58,7 +58,7 @@ properties:
        description: Clone WinGet CLI GitHub repository
        allowPrerelease: true
      settings:
-       HttpsUrl: https://github.com/acangialosi/dotfiles
+       HttpsUrl: https://github.com/luxu-ms/dotfiles.git
        RootDirectory: z:\src
        Ensure: Present
    ########################################
